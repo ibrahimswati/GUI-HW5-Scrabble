@@ -1,0 +1,3 @@
+Readme: 
+
+Haven't able to implement all the features but drag and drop works, you can retract letters back, score increments when the word is made, new word generates new letters and score is retained until new game is clicked, letters go back to users placeholder if not placed in placeholder, new game reloads the game again. I wasn't able to connect the dictionary with the game which is why game isn't fully working yet.

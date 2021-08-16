@@ -1,0 +1,46 @@
+/* File: style.css
+// GUI Assignment: Scrabble
+// Ibrahim Swati, UMass Lowell Computer Science, iswati@cs.uml.edu
+// Copyright (c) 2021 by Ibrahim. All rights reserved. May be freely copied or excerpted for educational purposes with credit to the author.
+// updated by IS on August 13, 2021 at 5:46PM */
+
+
+.droppedelementdiv {
+    width: 40px;
+    height: 40px;
+    /* padding: 10px; */
+    margin: 10px;
+    border: 1px solid #aaaaaa;
+    background-color: blanchedalmond;
+}
+
+.PH {
+    display: inline-flex;
+}
+
+
+.btn-main{
+    width: 100px;
+    height: 30px;
+    border-radius: 25%;
+    background-color: #424242;
+    color: rgb(255, 255, 255);
+
+}
+
+.btn-refresh{
+    width: 100px;
+    height: 30px;
+    border-radius: 25%;
+    background-color: #424242;
+    color: rgb(255, 255, 255);
+}
+
+.allElementsPlaceholderDiv {
+    width: 400px;
+    height: 60px;
+}
+
+.mg-pic {
+    margin: 3px;
+}
